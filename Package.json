@@ -1,0 +1,18 @@
+{
+  "name": "chatbot",
+  "version": "1.2.1",
+  "description": "This is for testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "~1.10.1",
+    "request": "~2.79.0"
+    
+  }
+}
